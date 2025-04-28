@@ -29,7 +29,7 @@ This project was made possible by the collaborative effort of the following cont
 - **Cherozade** - HTML Structure & Accessibility
 - **Letshego** - CSS Styling & Responsiveness
 - **Sithandekile** - Code Review & Hosting on Netlify 
-- **Shalate Mtshweni** - Quality Assurance & Documentation
+- **Shalate Mtshweni** - Imaging & Documentation
 
 ## View the Webpage
 Simply follow the link below:
