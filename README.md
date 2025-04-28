@@ -1,6 +1,4 @@
-Sure! Here's a professional example of a README file for your recreated HTML webpage project with five contributors:
 
----
 
 # Recreated HTML Webpage
 
@@ -8,9 +6,9 @@ This project is a **recreation of an existing HTML webpage**, completed collabor
 
 ## Table of Contents
 - Project Overview
-- View the Webpage
 - Features
 - Contributors
+- View the Webpage
 - Usage
 
 ## Project Overview
