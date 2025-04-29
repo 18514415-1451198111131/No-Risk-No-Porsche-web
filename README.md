@@ -23,11 +23,11 @@ The project involved analyzing a sample webpage, planning the structure, and reb
 
 ## Contributors
 This project was made possible by the collaborative effort of the following contributors:
-- **Thendo** - Javascript & Project Coordinator
+- **Thendo Netshandama** - Javascript & Project Coordinator
 - **Cherozade** - HTML Structure & Accessibility
-- **Letshego** - CSS Styling & Responsiveness
-- **Sithandekile** - Code Review & Hosting on Netlify 
-- **Shalate** - Imaging & Documentation
+- **Letshego Sephiri** - CSS Styling & Responsiveness
+- **Sithandekile  Ndlovu** - Code Review & Hosting on Netlify 
+- **Shalate ** - Imaging & Documentation
 
 ## View the Webpage
 Simply follow the link below:
