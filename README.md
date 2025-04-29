@@ -27,7 +27,7 @@ This project was made possible by the collaborative effort of the following cont
 - **Cherozade** - HTML Structure & Accessibility
 - **Letshego Sephiri** - CSS Styling & Responsiveness
 - **Sithandekile  Ndlovu** - Code Review & Hosting on Netlify 
-- **Shalate ** - Imaging & Documentation
+- **Shalate Mtshweni** - Imaging & Documentation
 
 ## View the Webpage
 Simply follow the link below:
